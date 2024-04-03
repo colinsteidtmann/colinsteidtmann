@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @colinsteidtmann
-- 👀 I’m interested in blockchain and bikes.
-- 🌱 I’m currently learning smart contracts and web3 apps.
-- 💞️ I’m looking to collaborate on web3 apps.
+- 👀 I’m interested in software development and bikes.
+- 🌱 I’m currently learning all sorts of things (graphics, operating systems, computer security, ...).
+- 💞️ I’m looking to collaborate on projects that interest me.
 - 📫 How to reach me: colinsteidtmann@gmail.com or on facebook @colinsteidtmann. 
 
 <!---
